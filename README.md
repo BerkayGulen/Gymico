@@ -17,12 +17,8 @@ all the exercise programs.
 ![image](https://user-images.githubusercontent.com/76843587/216730120-28571e39-b5a7-4eb3-9b0a-ed72cd852119.png)
 ![image](https://user-images.githubusercontent.com/76843587/216730358-314b08e9-864d-45ad-b053-26cea8e43732.png)
 ![image](https://user-images.githubusercontent.com/76843587/216730762-77aaa8df-3ec7-4963-be4c-3aedefc74b0c.png)
-
-##
-
 ![image](https://user-images.githubusercontent.com/76843587/216730276-3b048323-916d-4d48-82ea-82cff1ead2d6.png)
 ![image](https://user-images.githubusercontent.com/76843587/216730824-2ed48f96-0e95-4112-9ec2-0efb4404a869.png)
-##
 ![image](https://user-images.githubusercontent.com/76843587/216730855-b42d143d-1acf-48e8-830b-3bbfaf1bf6fb.png)
 ![image](https://user-images.githubusercontent.com/76843587/216730884-33ae883a-ac7c-49b0-a547-7887df730376.png)
 ## Instructions
