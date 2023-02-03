@@ -11,6 +11,11 @@ For admin panel, we want to pursue our users from the app without going through
 the firebase.Thanks to admin panel , we can see their information such as which 
 program they’re doing , their bmı and goal weight etc.Furthermore , we can control 
 all the exercise programs.
+# Youtube Video
+You can check out my video for further information :)
+
+https://youtu.be/eThh3Yhod2s
+
 
 # Pages
 ![image](https://user-images.githubusercontent.com/76843587/216730058-6f4e3732-2967-49b9-beb5-9041004ea28b.png)
@@ -43,10 +48,6 @@ using bmi calculator on home page.
 the nutritions.By using the information button on home , you can have information about what to 
 eat or not eat.
 
-# Youtube Video
-You can check out my video for further information :)
-
-https://youtu.be/eThh3Yhod2s
 
 
 
